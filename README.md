@@ -1,2 +1,2 @@
 # STMP-Sender
-It is a email sender based on STMP
+It is an email sender based on STMP
